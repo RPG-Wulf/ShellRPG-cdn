@@ -1,4 +1,4 @@
-# ShellRPG-cdn · v0.7.6
+# ShellRPG-cdn · v0.8.0
 
 Deutsch | [English](README.en.md)
 

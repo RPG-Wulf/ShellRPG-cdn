@@ -1,4 +1,4 @@
-# ShellRPG-cdn · v0.7.6
+# ShellRPG-cdn · v0.8.0
 
 `ShellRPG-cdn` is the public asset and distribution endpoint for curated
 ShellRPG media.
