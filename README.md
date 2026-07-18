@@ -18,7 +18,7 @@ public-safe Medienpfade.
 ## Aktueller Stand
 
 - GitHub-backed Primaerpfad fuer WWW-Assets:
-  `https://cdn.jsdelivr.net/gh/RPGheros/ShellRPG-cdn@main/assets/www`
+  `https://cdn.jsdelivr.net/gh/RPG-Wulf/ShellRPG-cdn@main/assets/www`
 - dynv6-Fallback ist fuer lokale bzw. spaetere Deployments vorbereitet
 - die eigentliche Asset-Befuellung erfolgt ueber
   `scripts/sync_workspace_assets.py`
