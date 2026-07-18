@@ -9,7 +9,7 @@ ShellRPG media.
   endpoint, update `README.md`, `README.en.md`, and `VERSION` together.
 
 - Primary WWW asset base:
-  `https://cdn.jsdelivr.net/gh/RPGheros/ShellRPG-cdn@main/assets/www`
+  `https://cdn.jsdelivr.net/gh/RPG-Wulf/ShellRPG-cdn@main/assets/www`
 - dynv6 fallback is prepared for local and later deployed use
 - actual asset population is handled by `scripts/sync_workspace_assets.py`
 - `scripts/sync_workspace_assets.py` anchors current WWW and client assets as
